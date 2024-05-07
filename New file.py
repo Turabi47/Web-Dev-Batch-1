@@ -1,11 +1,6 @@
 #It's the new file created in vs code
 print("Hello, world")
 print("Updated code by branch  sdfjs")
-#<<<<<<< HEAD
-print("Branch 3")
+for i in range(1, 11):
+    print(i, end=" ")
 
-# =======
-print("here i am"*20)
-print("here i am"*20)
-
-# >>>>>>> checkbranch
