@@ -1,5 +1,9 @@
-# Abdul Aziz Khan
-# Abdul Aziz Khan
-# Abdul Aziz Khan
-# Abdul Aziz Khan
-df
+Variables
+Operatiors
+Array
+Object
+string 
+methods {array, method, string}
+scope
+functions
+
