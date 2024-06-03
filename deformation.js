@@ -11,4 +11,5 @@ console.log(others);
  let nums = [2, 4, 6, 34, 6, 7, 8];
  nums.reverse
  const [d, e, f, ...other] = nums;
+ console.log()
 

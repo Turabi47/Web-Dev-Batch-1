@@ -35,4 +35,4 @@ function myFunc(){
 }
 myFunc()
 
-setInterval(myFunc, 10000)
+setInterval(myFunc, 1000)
