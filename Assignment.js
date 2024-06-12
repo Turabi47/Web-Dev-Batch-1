@@ -108,6 +108,12 @@ arr4.forEach(str => {
     });
 console.log("Type of",String,"is",typeof(String))
 
+//      Operators
+let num1 = 23
+console.log(++num1) 
+console.log(num1++)
+console.log(num1)
+
 
     
     
